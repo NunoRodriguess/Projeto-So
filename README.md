@@ -1,2 +1,2 @@
-# Projeto So
+# Projeto SO
  Projeto de Sistemas Operativos
